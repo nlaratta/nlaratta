@@ -48,7 +48,7 @@ Keep READMEs honest and brief. Leave a section out rather than pad it, and never
 
 ## CI conventions
 
-- Use current major versions of actions: `actions/checkout@v7`, `actions/setup-node@v7`, `actions/setup-python@v7`, `actions/setup-java@v6`, `astral-sh/setup-uv@v10`, and Pages via `configure-pages@v6`, `upload-pages-artifact@v5`, `deploy-pages@v5`.
+- Use current major versions of actions: `actions/checkout@v7`, `actions/setup-node@v7`, `actions/setup-python@v7`, `actions/setup-java@v6`, `astral-sh/setup-uv@v10.3.0` (it publishes no floating major tag), and Pages via `configure-pages@v6`, `upload-pages-artifact@v5`, `deploy-pages@v5`.
 - Use lockfile installs (`npm ci`, `uv pip sync` or a pinned `requirements.txt`).
 - Static sites deploy with the GitHub Pages workflow, not by committing build output.
 
