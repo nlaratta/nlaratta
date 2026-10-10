@@ -3,6 +3,7 @@
 //
 //   out/<repo>/banner.png  1280x400  README header (commit as .github/banner.png)
 //   out/<repo>/social.png  1280x640  Settings → Social preview upload
+//   out/<repo>/card.png     800x400  project card in the profile README grid
 //
 // Usage: pnpm build            (all repos in repos.json)
 //        pnpm build <repo> ... (just those)
@@ -146,6 +147,23 @@ function banner(repo, { title, tagline, tags }) {
   )
 }
 
+// Compact project card for the profile README grid (no avatar footer).
+function card(repo, { title, tagline, tags }) {
+  return frame(
+    800,
+    400,
+    '40px 52px 40px 60px',
+    0.6,
+    eyebrow(repo, 16),
+    row(
+      { flexDirection: 'column', gap: '12px' },
+      row({ fontSize: title.length > 16 ? '46px' : '54px', fontWeight: 700, lineHeight: 1.05 }, title),
+      row({ fontSize: '22px', color: MUTED, lineHeight: 1.3 }, tagline),
+    ),
+    chips(tags, 16),
+  )
+}
+
 async function render(tree, w, hgt, file) {
   const svg = await satori(tree, { width: w, height: hgt, fonts })
   fs.writeFileSync(file, new Resvg(svg, { fitTo: { mode: 'width', value: w } }).render().asPng())
@@ -159,5 +177,6 @@ for (const [repo, spec] of Object.entries(repos)) {
   fs.mkdirSync(dir, { recursive: true })
   await render(social(repo, spec), 1280, 640, path.join(dir, 'social.png'))
   await render(banner(repo, spec), 1280, 400, path.join(dir, 'banner.png'))
-  console.log(`  ${repo}: banner.png, social.png`)
+  await render(card(repo, spec), 800, 400, path.join(dir, 'card.png'))
+  console.log(`  ${repo}: banner.png, social.png, card.png`)
 }

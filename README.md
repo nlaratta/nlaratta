@@ -8,14 +8,47 @@ I'm a software engineer in Denver and the founder of [Laratta Labs](https://lara
 
 ## Projects
 
-| | Project | What it is |
-|---|---|---|
-| 🌐 | [**noahlaratta.com**](https://github.com/nlaratta/noahlaratta) | My personal site, a static Next.js export with MDX lab write-ups |
-| 🧰 | [**claude-helpers**](https://github.com/nlaratta/claude-helpers) | Claude Code skills, starting with recovering lost work from session transcripts |
-| 📚 | [**study-guide-generator**](https://github.com/nlaratta/study-guide-generator) | Flask + OpenAI app that builds step-by-step study plans for any subject |
-| 🗄️ | [**db-tinkering**](https://github.com/nlaratta/db-tinkering) | SQL and Tableau dashboards over a 210k-movie Postgres database |
-| 🎮 | [**game-hub**](https://nlaratta.github.io/game-hub/) | My browser games in one place, including [Freakmoji Clicker](https://nlaratta.github.io/emoji-clicker/) |
-| 🟩 | [**wordle-solver**](https://github.com/nlaratta/wordle-solver) | Java solver that narrows candidates using only Wordle's feedback |
-| 📈 | [**indicator-bot**](https://github.com/nlaratta/indicator-bot) | MACD swing-trading bot for KuCoin, with a safe dry-run mode |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/noahlaratta"><img src="brand/out/noahlaratta/card.png" alt="noahlaratta" width="100%"></a>
+      <p align="center"><a href="https://noahlaratta.com">Site</a> · <a href="https://github.com/nlaratta/noahlaratta">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/claude-helpers"><img src="brand/out/claude-helpers/card.png" alt="claude-helpers" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/claude-helpers">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/study-guide-generator"><img src="brand/out/study-guide-generator/card.png" alt="study-guide-generator" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/study-guide-generator">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/db-tinkering"><img src="brand/out/db-tinkering/card.png" alt="db-tinkering" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/db-tinkering">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/game-hub"><img src="brand/out/game-hub/card.png" alt="game-hub" width="100%"></a>
+      <p align="center"><a href="https://nlaratta.github.io/game-hub/">Play</a> · <a href="https://github.com/nlaratta/game-hub">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/emoji-clicker"><img src="brand/out/emoji-clicker/card.png" alt="emoji-clicker" width="100%"></a>
+      <p align="center"><a href="https://nlaratta.github.io/emoji-clicker/">Play</a> · <a href="https://github.com/nlaratta/emoji-clicker">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/wordle-solver"><img src="brand/out/wordle-solver/card.png" alt="wordle-solver" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/wordle-solver">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/indicator-bot"><img src="brand/out/indicator-bot/card.png" alt="indicator-bot" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/indicator-bot">Code</a></p>
+    </td>
+  </tr>
+</table>
 
 <sub>Every repo here follows the same [standards](STANDARDS.md), and its banners are generated from [`brand/`](brand/).</sub>
