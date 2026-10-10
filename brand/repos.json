@@ -1,0 +1,83 @@
+{
+  "nlaratta": {
+    "title": "Noah Laratta",
+    "tagline": "Software engineer and founder of Laratta Labs. Full-stack, cloud and AI.",
+    "tags": [
+      "Denver, CO",
+      "Laratta Labs",
+      "noahlaratta.com"
+    ]
+  },
+  "noahlaratta": {
+    "title": "noahlaratta.com",
+    "tagline": "My personal site: projects, experience, and lab write-ups.",
+    "tags": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "MDX"
+    ]
+  },
+  "claude-helpers": {
+    "title": "claude-helpers",
+    "tagline": "Skills and scripts for Claude Code, learned the hard way.",
+    "tags": [
+      "Claude Code",
+      "Agent Skills",
+      "Python"
+    ]
+  },
+  "study-guide-generator": {
+    "title": "Study Guide Generator",
+    "tagline": "Personalized, step-by-step study plans for any subject.",
+    "tags": [
+      "Flask",
+      "OpenAI",
+      "JavaScript"
+    ]
+  },
+  "db-tinkering": {
+    "title": "db-tinkering",
+    "tagline": "SQL and reporting practice on the Open Media Database.",
+    "tags": [
+      "PostgreSQL",
+      "Tableau",
+      "SQL"
+    ]
+  },
+  "game-hub": {
+    "title": "Game Hub",
+    "tagline": "One page to play my small browser games.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "GitHub Pages"
+    ]
+  },
+  "emoji-clicker": {
+    "title": "Freakmoji Clicker",
+    "tagline": "Click the emoji, buy upgrades, chase a high score.",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "wordle-solver": {
+    "title": "Wordle Solver",
+    "tagline": "Solves a Wordle puzzle by filtering on green, yellow and gray feedback.",
+    "tags": [
+      "Java",
+      "CLI"
+    ]
+  },
+  "indicator-bot": {
+    "title": "Indicator Bot",
+    "tagline": "A KuCoin swing-trading bot driven by MACD crossovers.",
+    "tags": [
+      "Python",
+      "pandas",
+      "KuCoin API"
+    ]
+  }
+}
