@@ -79,5 +79,32 @@
       "pandas",
       "KuCoin API"
     ]
+  },
+  "ProgressionCompass": {
+    "title": "Progression Compass",
+    "tagline": "A Terraria mod that always knows what you should do next.",
+    "tags": [
+      "C#",
+      "tModLoader",
+      "Terraria"
+    ]
+  },
+  "IdeaBattleGround": {
+    "title": "Idea Battleground",
+    "tagline": "AI agents pitch product ideas, judge them, and battle them out in Elo rounds.",
+    "tags": [
+      "TypeScript",
+      "Claude Agent SDK",
+      "Live visualization"
+    ]
+  },
+  "apple-hig-mcp": {
+    "title": "Apple HIG MCP",
+    "tagline": "Search Apple's Human Interface Guidelines from Claude.",
+    "tags": [
+      "TypeScript",
+      "MCP",
+      "Apple HIG"
+    ]
   }
 }

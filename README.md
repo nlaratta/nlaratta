@@ -15,18 +15,28 @@ I'm a software engineer in Denver and the founder of [Laratta Labs](https://lara
       <p align="center"><a href="https://noahlaratta.com">Site</a> · <a href="https://github.com/nlaratta/noahlaratta">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/claude-helpers"><img src="brand/out/claude-helpers/card.png" alt="claude-helpers" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/claude-helpers">Code</a></p>
+      <a href="https://github.com/nlaratta/IdeaBattleGround"><img src="brand/out/IdeaBattleGround/card.png" alt="IdeaBattleGround" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/IdeaBattleGround">Code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/study-guide-generator"><img src="brand/out/study-guide-generator/card.png" alt="study-guide-generator" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/study-guide-generator">Code</a></p>
+      <a href="https://github.com/nlaratta/claude-helpers"><img src="brand/out/claude-helpers/card.png" alt="claude-helpers" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/claude-helpers">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/db-tinkering"><img src="brand/out/db-tinkering/card.png" alt="db-tinkering" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/db-tinkering">Code</a></p>
+      <a href="https://github.com/nlaratta/apple-hig-mcp"><img src="brand/out/apple-hig-mcp/card.png" alt="apple-hig-mcp" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/apple-hig-mcp">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/ProgressionCompass"><img src="brand/out/ProgressionCompass/card.png" alt="ProgressionCompass" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/ProgressionCompass">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/study-guide-generator"><img src="brand/out/study-guide-generator/card.png" alt="study-guide-generator" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/study-guide-generator">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -41,13 +51,20 @@ I'm a software engineer in Denver and the founder of [Laratta Labs](https://lara
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/db-tinkering"><img src="brand/out/db-tinkering/card.png" alt="db-tinkering" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/db-tinkering">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/nlaratta/wordle-solver"><img src="brand/out/wordle-solver/card.png" alt="wordle-solver" width="100%"></a>
       <p align="center"><a href="https://github.com/nlaratta/wordle-solver">Code</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/nlaratta/indicator-bot"><img src="brand/out/indicator-bot/card.png" alt="indicator-bot" width="100%"></a>
       <p align="center"><a href="https://github.com/nlaratta/indicator-bot">Code</a></p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
