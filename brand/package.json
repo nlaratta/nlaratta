@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node generate.mjs"
+    "build": "node generate.mjs",
+    "readme": "node profile.mjs"
   },
   "dependencies": {
     "@fontsource/inter": "^5.2.8",

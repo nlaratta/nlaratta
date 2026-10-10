@@ -6,66 +6,70 @@ I'm a software engineer in Denver and the founder of [Laratta Labs](https://lara
 
 **[noahlaratta.com](https://noahlaratta.com)** · Studio work lives at **[github.com/larattalabs](https://github.com/larattalabs)**
 
-## Projects
+<!-- projects:start -->
+## Featured
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/noahlaratta"><img src="brand/out/noahlaratta/card.png" alt="noahlaratta" width="100%"></a>
-      <p align="center"><a href="https://noahlaratta.com">Site</a> · <a href="https://github.com/nlaratta/noahlaratta">Code</a></p>
+      <a href="https://github.com/nlaratta/IdeaBattleGround"><img src="brand/out/IdeaBattleGround/card.png" alt="Idea Battleground" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/IdeaBattleGround">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/IdeaBattleGround"><img src="brand/out/IdeaBattleGround/card.png" alt="IdeaBattleGround" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/IdeaBattleGround">Code</a></p>
+      <a href="https://github.com/nlaratta/ProgressionCompass"><img src="brand/out/ProgressionCompass/card.png" alt="Progression Compass" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/ProgressionCompass">Code</a></p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nlaratta/apple-hig-mcp"><img src="brand/out/apple-hig-mcp/card.png" alt="Apple HIG MCP" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/apple-hig-mcp">Code</a></p>
+    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/nlaratta/claude-helpers"><img src="brand/out/claude-helpers/card.png" alt="claude-helpers" width="100%"></a>
       <p align="center"><a href="https://github.com/nlaratta/claude-helpers">Code</a></p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/apple-hig-mcp"><img src="brand/out/apple-hig-mcp/card.png" alt="apple-hig-mcp" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/apple-hig-mcp">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/ProgressionCompass"><img src="brand/out/ProgressionCompass/card.png" alt="ProgressionCompass" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/ProgressionCompass">Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/study-guide-generator"><img src="brand/out/study-guide-generator/card.png" alt="study-guide-generator" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/study-guide-generator">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/game-hub"><img src="brand/out/game-hub/card.png" alt="game-hub" width="100%"></a>
-      <p align="center"><a href="https://nlaratta.github.io/game-hub/">Play</a> · <a href="https://github.com/nlaratta/game-hub">Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/emoji-clicker"><img src="brand/out/emoji-clicker/card.png" alt="emoji-clicker" width="100%"></a>
-      <p align="center"><a href="https://nlaratta.github.io/emoji-clicker/">Play</a> · <a href="https://github.com/nlaratta/emoji-clicker">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/db-tinkering"><img src="brand/out/db-tinkering/card.png" alt="db-tinkering" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/db-tinkering">Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/wordle-solver"><img src="brand/out/wordle-solver/card.png" alt="wordle-solver" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/wordle-solver">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/indicator-bot"><img src="brand/out/indicator-bot/card.png" alt="indicator-bot" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/indicator-bot">Code</a></p>
-    </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
-<sub>Every repo here follows the same [standards](STANDARDS.md), and its banners are generated from [`brand/`](brand/).</sub>
+## Shipped at Laratta Labs
+
+- **SquadUp**: Social fitness platform: find local workouts, train together, and let hosts get paid. [App Store](https://apps.apple.com/us/app/squadup-lift-more-together/id6745851197) · [supsquadup.com](https://supsquadup.com)
+- **YardPaint**: Photograph your yard, paint zones, and get a photorealistic landscaped preview with the plants to match. [App Store](https://apps.apple.com/us/app/yardpaint/id6781556965) · [yardpaint.app](https://yardpaint.app)
+
+Open source from the studio:
+
+- [**Architect**](https://github.com/larattalabs/architect-mc): Minecraft mod where Claude designs buildings as parametric code you place in your world.
+- [**Local Lab**](https://github.com/larattalabs/local-lab): Desktop playground for comparing local AI models on Apple Silicon side by side.
+- [**Hunyuan3D for Blender on Mac**](https://github.com/larattalabs/blender-hunyuan3d-mac): Textured 3D asset generation inside Blender, entirely on Apple Silicon.
+
+## All projects
+
+**AI & developer tools**
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Idea Battleground**](https://github.com/nlaratta/IdeaBattleGround) | AI agents pitch product ideas, judge them, and battle them out in Elo rounds. | TypeScript, Claude Agent SDK, Three.js |
+| [**Apple HIG MCP**](https://github.com/nlaratta/apple-hig-mcp) | Search Apple's Human Interface Guidelines from Claude. | TypeScript, MCP, Apple HIG |
+| [**claude-helpers**](https://github.com/nlaratta/claude-helpers) | Skills and scripts for Claude Code, learned the hard way. | Claude Code, Agent Skills, Python |
+| [**Study Guide Generator**](https://github.com/nlaratta/study-guide-generator) | Personalized, step-by-step study plans for any subject. | Flask, OpenAI, JavaScript |
+
+**Games & mods**
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Progression Compass**](https://github.com/nlaratta/ProgressionCompass) | A Terraria mod that always knows what you should do next. | C#, tModLoader, Terraria |
+| [**Game Hub**](https://github.com/nlaratta/game-hub) · [live](https://nlaratta.github.io/game-hub/) | One page to play my small browser games. | HTML, CSS, GitHub Pages |
+| [**Freakmoji Clicker**](https://github.com/nlaratta/emoji-clicker) · [live](https://nlaratta.github.io/emoji-clicker/) | Click the emoji, buy upgrades, chase a high score. | JavaScript, HTML, CSS |
+| [**Wordle Solver**](https://github.com/nlaratta/wordle-solver) | Solves a Wordle puzzle by filtering on green, yellow and gray feedback. | Java, CLI |
+
+**Web, data & trading**
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**noahlaratta.com**](https://github.com/nlaratta/noahlaratta) · [live](https://noahlaratta.com) | My personal site: projects, experience, and lab write-ups. | Next.js, TypeScript, Tailwind, MDX |
+| [**db-tinkering**](https://github.com/nlaratta/db-tinkering) | SQL and reporting practice on the Open Media Database. | PostgreSQL, Tableau, SQL |
+| [**Indicator Bot**](https://github.com/nlaratta/indicator-bot) | A KuCoin swing-trading bot driven by MACD crossovers. | Python, pandas, KuCoin API |
+<!-- projects:end -->
+
+<sub>Every repo here follows the same [standards](STANDARDS.md). Banners, cards and this list are generated from [`brand/`](brand/).</sub>

@@ -1,0 +1,38 @@
+{
+  "featured": ["IdeaBattleGround", "ProgressionCompass", "apple-hig-mcp", "claude-helpers"],
+  "labs": {
+    "products": [
+      {
+        "name": "SquadUp",
+        "description": "Social fitness platform: find local workouts, train together, and let hosts get paid.",
+        "links": [
+          { "label": "App Store", "href": "https://apps.apple.com/us/app/squadup-lift-more-together/id6745851197" },
+          { "label": "supsquadup.com", "href": "https://supsquadup.com" }
+        ]
+      },
+      {
+        "name": "YardPaint",
+        "description": "Photograph your yard, paint zones, and get a photorealistic landscaped preview with the plants to match.",
+        "links": [
+          { "label": "App Store", "href": "https://apps.apple.com/us/app/yardpaint/id6781556965" },
+          { "label": "yardpaint.app", "href": "https://yardpaint.app" }
+        ]
+      }
+    ],
+    "openSource": [
+      { "repo": "larattalabs/architect-mc", "name": "Architect", "description": "Minecraft mod where Claude designs buildings as parametric code you place in your world." },
+      { "repo": "larattalabs/local-lab", "name": "Local Lab", "description": "Desktop playground for comparing local AI models on Apple Silicon side by side." },
+      { "repo": "larattalabs/blender-hunyuan3d-mac", "name": "Hunyuan3D for Blender on Mac", "description": "Textured 3D asset generation inside Blender, entirely on Apple Silicon." }
+    ]
+  },
+  "categories": [
+    { "name": "AI & developer tools", "repos": ["IdeaBattleGround", "apple-hig-mcp", "claude-helpers", "study-guide-generator"] },
+    { "name": "Games & mods", "repos": ["ProgressionCompass", "game-hub", "emoji-clicker", "wordle-solver"] },
+    { "name": "Web, data & trading", "repos": ["noahlaratta", "db-tinkering", "indicator-bot"] }
+  ],
+  "live": {
+    "noahlaratta": "https://noahlaratta.com",
+    "game-hub": "https://nlaratta.github.io/game-hub/",
+    "emoji-clicker": "https://nlaratta.github.io/emoji-clicker/"
+  }
+}
