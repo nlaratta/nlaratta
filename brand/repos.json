@@ -98,19 +98,23 @@
       "Three.js"
     ]
   },
-  "apple-hig-mcp": {
-    "title": "Apple HIG MCP",
-    "tagline": "Search Apple's Human Interface Guidelines from Claude.",
+  "hig-review": {
+    "title": "HIG Review",
+    "tagline": "Review Apple-platform UI against the Human Interface Guidelines, with cited rules.",
     "tags": [
       "TypeScript",
       "MCP",
-      "Apple HIG"
+      "Claude Code plugin"
     ]
   },
   "lab-ui": {
     "owner": "larattalabs",
     "title": "Lab UI",
     "tagline": "The shared client UI library of the Laratta Labs Minecraft mods.",
-    "tags": ["Java", "Fabric", "Minecraft 26.3"]
+    "tags": [
+      "Java",
+      "Fabric",
+      "Minecraft 26.3"
+    ]
   }
 }

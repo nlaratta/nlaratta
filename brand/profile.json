@@ -1,5 +1,5 @@
 {
-  "featured": ["IdeaBattleGround", "ProgressionCompass", "apple-hig-mcp", "claude-helpers"],
+  "featured": ["IdeaBattleGround", "ProgressionCompass", "hig-review", "claude-helpers"],
   "labs": {
     "products": [
       {
@@ -27,7 +27,7 @@
     ]
   },
   "categories": [
-    { "name": "AI & developer tools", "repos": ["IdeaBattleGround", "apple-hig-mcp", "claude-helpers", "study-guide-generator"] },
+    { "name": "AI & developer tools", "repos": ["IdeaBattleGround", "hig-review", "claude-helpers", "study-guide-generator"] },
     { "name": "Games & mods", "repos": ["ProgressionCompass", "game-hub", "emoji-clicker", "wordle-solver"] },
     { "name": "Web, data & trading", "repos": ["noahlaratta", "db-tinkering", "indicator-bot"] }
   ],

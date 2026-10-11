@@ -22,8 +22,8 @@ I'm a software engineer in Denver and the founder of [Laratta Labs](https://lara
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nlaratta/apple-hig-mcp"><img src="brand/out/apple-hig-mcp/card.png" alt="Apple HIG MCP" width="100%"></a>
-      <p align="center"><a href="https://github.com/nlaratta/apple-hig-mcp">Code</a></p>
+      <a href="https://github.com/nlaratta/hig-review"><img src="brand/out/hig-review/card.png" alt="HIG Review" width="100%"></a>
+      <p align="center"><a href="https://github.com/nlaratta/hig-review">Code</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/nlaratta/claude-helpers"><img src="brand/out/claude-helpers/card.png" alt="claude-helpers" width="100%"></a>
@@ -51,7 +51,7 @@ Open source from the studio:
 | Project | What it is | Stack |
 |---|---|---|
 | [**Idea Battleground**](https://github.com/nlaratta/IdeaBattleGround) | AI agents pitch product ideas, judge them, and battle them out in Elo rounds. | TypeScript, Claude Agent SDK, Three.js |
-| [**Apple HIG MCP**](https://github.com/nlaratta/apple-hig-mcp) | Search Apple's Human Interface Guidelines from Claude. | TypeScript, MCP, Apple HIG |
+| [**HIG Review**](https://github.com/nlaratta/hig-review) | Review Apple-platform UI against the Human Interface Guidelines, with cited rules. | TypeScript, MCP, Claude Code plugin |
 | [**claude-helpers**](https://github.com/nlaratta/claude-helpers) | Skills and scripts for Claude Code, learned the hard way. | Claude Code, Agent Skills, Python |
 | [**Study Guide Generator**](https://github.com/nlaratta/study-guide-generator) | Personalized, step-by-step study plans for any subject. | Flask, OpenAI, JavaScript |
 
