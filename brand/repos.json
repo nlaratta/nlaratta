@@ -56,11 +56,11 @@
   },
   "emoji-clicker": {
     "title": "Freakmoji Clicker",
-    "tagline": "Click the emoji, buy upgrades, chase a high score.",
+    "tagline": "A 3D incremental game: seven diorama eras, forty weapons and a minion crew.",
     "tags": [
-      "JavaScript",
-      "HTML",
-      "CSS"
+      "TypeScript",
+      "Three.js",
+      "Blender"
     ]
   },
   "wordle-solver": {

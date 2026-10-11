@@ -61,7 +61,7 @@ Open source from the studio:
 |---|---|---|
 | [**Progression Compass**](https://github.com/nlaratta/ProgressionCompass) | A Terraria mod that always knows what you should do next. | C#, tModLoader, Terraria |
 | [**Game Hub**](https://github.com/nlaratta/game-hub) · [live](https://nlaratta.github.io/game-hub/) | One page to play my small browser games. | HTML, CSS, GitHub Pages |
-| [**Freakmoji Clicker**](https://github.com/nlaratta/emoji-clicker) · [live](https://nlaratta.github.io/emoji-clicker/) | Click the emoji, buy upgrades, chase a high score. | JavaScript, HTML, CSS |
+| [**Freakmoji Clicker**](https://github.com/nlaratta/emoji-clicker) · [live](https://nlaratta.github.io/emoji-clicker/) | A 3D incremental game: seven diorama eras, forty weapons and a minion crew. | TypeScript, Three.js, Blender |
 | [**Wordle Solver**](https://github.com/nlaratta/wordle-solver) | Solves a Wordle puzzle by filtering on green, yellow and gray feedback. | Java, CLI |
 
 **Web, data & trading**
