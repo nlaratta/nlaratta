@@ -14,6 +14,7 @@ Repos under `github.com/larattalabs` follow the org's own [Laratta Labs standard
 - [ ] **About sidebar:** a one-sentence description, 3–6 topics, and a homepage link if there's a live site or demo.
 - [ ] **Profiles:** listed on the profile README(s) and noahlaratta.com, per [Profile READMEs](#profile-readmes).
 - [ ] **Hygiene:** no secrets, no generated or local-only files (dumps, lock/temp files, `node_modules`, venvs), and a `.gitignore` that matches the stack.
+  - *Exception: committed build output a distribution channel needs.* A Claude Code plugin installs straight from the repo, so [hig-review](https://github.com/nlaratta/hig-review) commits `plugin/server.mjs` (plus its third-party license file). When you do this, CI must check that the files are tracked (`git ls-files --error-unmatch`), rebuild them deterministically, and fail on any diff (`git diff --exit-code`).
 
 ## README template
 
