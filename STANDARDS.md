@@ -2,6 +2,8 @@
 
 Every original public repo under `github.com/nlaratta` follows this checklist so they look and behave like one body of work. Forks are exempt.
 
+Repos under `github.com/larattalabs` follow the org's own [Laratta Labs standards](https://github.com/larattalabs/.github/blob/main/STANDARDS.md), which build on this file (Laratta Labs copyright, studio branding, GitHub Packages releases).
+
 ## Checklist
 
 - [ ] **Banner** at `.github/banner.png`, generated from [`brand/`](brand/) (`pnpm build <repo>`).
