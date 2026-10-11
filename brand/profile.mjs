@@ -12,7 +12,8 @@ const README = path.join(BRAND, '..', 'README.md')
 const repos = JSON.parse(fs.readFileSync(path.join(BRAND, 'repos.json'), 'utf8'))
 const profile = JSON.parse(fs.readFileSync(path.join(BRAND, 'profile.json'), 'utf8'))
 
-const gh = (repo) => `https://github.com/nlaratta/${repo}`
+const owner = (repo) => repos[repo]?.owner ?? 'nlaratta'
+const gh = (repo) => `https://github.com/${owner(repo)}/${repo}`
 const need = (repo) => {
   if (!repos[repo]) throw new Error(`profile.json lists "${repo}", which is missing from repos.json`)
   if (!fs.existsSync(path.join(BRAND, 'out', repo, 'card.png'))) throw new Error(`no card for "${repo}": run pnpm build ${repo}`)
@@ -45,6 +46,11 @@ const groups = profile.categories.map(({ name, repos: list }) => {
   return `**${name}**\n\n| Project | What it is | Stack |\n|---|---|---|\n${lines.join('\n')}`
 })
 
+// Studio (larattalabs) repos are listed under labs.openSource instead of a category.
+for (const { repo } of profile.labs.openSource) {
+  const [org, name] = repo.split('/')
+  if (repos[name] && owner(name) === org) listed.add(name)
+}
 const missing = Object.keys(repos).filter((r) => r !== 'nlaratta' && !listed.has(r))
 if (missing.length) throw new Error(`repos.json entries not placed in any profile.json category: ${missing.join(', ')}`)
 

@@ -106,5 +106,11 @@
       "MCP",
       "Apple HIG"
     ]
+  },
+  "lab-ui": {
+    "owner": "larattalabs",
+    "title": "Lab UI",
+    "tagline": "The shared client UI library of the Laratta Labs Minecraft mods.",
+    "tags": ["Java", "Fabric", "Minecraft 26.3"]
   }
 }

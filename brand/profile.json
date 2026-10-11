@@ -22,7 +22,8 @@
     "openSource": [
       { "repo": "larattalabs/architect-mc", "name": "Architect", "description": "Minecraft mod where Claude designs buildings as parametric code you place in your world." },
       { "repo": "larattalabs/local-lab", "name": "Local Lab", "description": "Desktop playground for comparing local AI models on Apple Silicon side by side." },
-      { "repo": "larattalabs/blender-hunyuan3d-mac", "name": "Hunyuan3D for Blender on Mac", "description": "Textured 3D asset generation inside Blender, entirely on Apple Silicon." }
+      { "repo": "larattalabs/blender-hunyuan3d-mac", "name": "Hunyuan3D for Blender on Mac", "description": "Textured 3D asset generation inside Blender, entirely on Apple Silicon." },
+      { "repo": "larattalabs/lab-ui", "name": "Lab UI", "description": "Shared Fabric client UI library for the studio's Minecraft mods." }
     ]
   },
   "categories": [
