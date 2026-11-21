@@ -40,7 +40,6 @@ I'm a software engineer in Denver and the founder of [Laratta Labs](https://lara
 Open source from the studio:
 
 - [**Architect**](https://github.com/larattalabs/architect-mc): Minecraft mod where Claude designs buildings as parametric code you place in your world.
-- [**Local Lab**](https://github.com/larattalabs/local-lab): Desktop playground for comparing local AI models on Apple Silicon side by side.
 - [**Hunyuan3D for Blender on Mac**](https://github.com/larattalabs/blender-hunyuan3d-mac): Textured 3D asset generation inside Blender, entirely on Apple Silicon.
 - [**Lab UI**](https://github.com/larattalabs/lab-ui): Shared Fabric client UI library for the studio's Minecraft mods.
 
